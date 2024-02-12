@@ -8,7 +8,7 @@
 - 🌱 I'm currently exploring Machine Learning and Neural Networks
 - 💬 Talk to me about Data structures, Algorithms and Neural Networks
 - 👯 My interest lies in Machine Learning and deep learning
-- 📫 reach me at <a href="mailto:ayushgr1128@gmail.com">Ayush Garg</a>
+- 📫 reach me at <a href="mailto:mayankchandel831@gmail.com">Mayank Chandel</a>
 
 
 # MY Github Stats
